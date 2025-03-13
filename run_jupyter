@@ -1,0 +1,4 @@
+source .hf_ai_agents_course_kernel/bin/activate
+python -m ipykernel install --user --name=.hf_ai_agents_course_kernel --display-name="HF AI Agents Course"
+/opt/homebrew/opt/jupyterlab/bin/jupyter-lab
+
