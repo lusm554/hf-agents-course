@@ -1,2 +1,5 @@
-.venv
 *.swp
+.env
+.venv
+.hf_ai_agents_course_kernel/
+.ipynb_checkpoints/
